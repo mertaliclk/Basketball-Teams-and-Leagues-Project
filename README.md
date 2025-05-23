@@ -4,7 +4,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.x-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-green)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A comprehensive analysis of NBA teams and player performance, focusing on star players' impact on team success and efficiency metrics comparison.
 
